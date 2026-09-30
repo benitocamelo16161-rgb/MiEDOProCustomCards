@@ -1,0 +1,1 @@
+Duel.LoadCardScriptAlias(89631102)
